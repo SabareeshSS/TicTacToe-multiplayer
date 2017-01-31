@@ -1,5 +1,5 @@
-var CELL_ROWS = 40;
-var CELL_COLS = 50;
+var CELL_ROWS = 3;
+var CELL_COLS = 3;
 
 var _playerX;
 var _playerO;
